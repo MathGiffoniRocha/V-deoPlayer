@@ -1,7 +1,18 @@
+<b>O que é?</b>
 Esse foi um facilitador de uma tarefa que eu realizo todos os dias, toda vez quando vou fazer alguma coisa onde não tenho uma aula para ouvir ou algo do tipo eu tenho o costume de
 abrir um vídeo com lofi, assim enquanto ouço eu também faço outra coisa, como por exemplo abrir e usar o vs code.
 
-Para isso eu usei as ferramentas:
+<b>Para instalar e usar:</b>
+
+
+
+
+
+<b>Ferramentas:</b>
+<ul>
         Selenium
         ChromeDriver
         Pyautogui
+</ul>
+<b>Observações:</b>
+Caso tenha dúvidas de como obter a posiçõ de click realizada pelo pyautogui dê uma olhada no arquivo GetPosition.py.

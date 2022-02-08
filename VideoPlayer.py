@@ -18,7 +18,7 @@ pyautogui.click(x=344, y=619)
 
 
 #Opening Vs code --- You may change the words in () on line 23 so you can open other stuff
-time.sleep(2)
+time.sleep(5)
 pyautogui.press("win")
 pyautogui.write("Visual Studio Code")
 pyautogui.press("enter")
