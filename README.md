@@ -5,12 +5,12 @@ abrir um vídeo com lofi, assim enquanto ouço eu também faço outra coisa, com
 
 <b>Para instalar e usar:</b>
 <ul>
-        <li>Instalar Virtual studio code</li><br>
-        <li>Instalar a extensão de python <u>(Python v2022.0.1786462952)</u><br>
-        <li>Instalar o selenium no prompt <u>(pip install selenium)</u><br>
-        <li>Instalar o webdriver do chrome <u>(ChromeDriver)</u> Ps.: Lembre-se de deixa-lo na mesma pasta do arquivo py para facilitar o processo<br>
-        <li>Instalar pyautogui no prompt <u>(pip install pyautogui)</u><br>
-        <li>Fazer os imports dentro do script, e mudar o código para suas preferências
+        <li>Instalar Virtual studio code<br>
+        <li>Instalar a extensão de python (Python v2022.0.1786462952)<br>
+        <li>Instalar o selenium no prompt (pip install selenium)<br>
+        <li>Instalar o webdriver do chrome (ChromeDriver) Ps.: Lembre-se de deixa-lo na mesma pasta do arquivo py para facilitar o processo<br>
+        <li>Instalar pyautogui no prompt (pip install pyautogui)<br>
+        <li>Fazer os imports dentro do script, e mudar o código para suas preferências<br>
 
 
 <b>Ferramentas:</b><br>
