@@ -19,6 +19,8 @@ abrir um vídeo com lofi, assim enquanto ouço eu também faço outra coisa, com
     <li>ChromeDriver</li><br>
     <li>Pyautogui</li><br>
 </ul>
+
+
 <dl>
     <dt><b>Observações:</b></dt>
     <dd>
