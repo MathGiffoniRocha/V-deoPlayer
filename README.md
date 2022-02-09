@@ -11,6 +11,7 @@ abrir um vídeo com lofi, assim enquanto ouço eu também faço outra coisa, com
     <li>Instalar o webdriver do chrome (ChromeDriver) Ps.: Lembre-se de deixa-lo na mesma pasta do arquivo py para facilitar o processo<br>
     <li>Instalar pyautogui no prompt (pip install pyautogui)<br>
     <li>Fazer os imports dentro do script, e mudar o código para suas preferências<br>
+</ul>
 
 
 <b>Ferramentas:</b><br>
